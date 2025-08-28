@@ -1,0 +1,12 @@
+﻿ChildID,FirstName,LastName,DateOfBirth,AgeInYears,Diagnosis,EnrollmentDate,TotalYearsWithCenter
+101,Alex,Myers,2012-03-14,13,Autism Spectrum,2023-01-01,"2 years, 6 months"
+102,Sara,Kelson,2003-11-28,21,Autism Spectrum,2018-10-02,"7 years, 9 months"
+103,Ryan,Lordson,2006-05-05,19,Autism Spectrum,2023-01-03,"1 year, 6 months"
+104,Tony,Paul,2012-11-22,12,Autism Spectrum,2022-01-02,"3 years, 5 months"
+105,Gaby,Kimberly,2015-12-12,9,Autism Spectrum,2022-12-09,"2 years, 10 months"
+106,Fulton,Cath,2012-01-06,13,Autism Spectrum,2023-10-12,"1 year, 7 months"
+107,Inder,Kumar,2016-05-29,9,Autism Spectrum,2024-07-03,"1 year, 0 months"
+108,Rebecca,Mikaelson,2015-06-30,10,Autism Spectrum,2022-05-11,"2 years, 8 months"
+109,Luciana,Pale,2012-08-25,12,Autism Spectrum,2023-01-01,"2 years, 6 months"
+110,Terri,Quinn,2017-05-17,8,Autism Spectrum,2023-07-03,"1 year, 0 months"
+111,Pompana,Brien,2015-06-23,12,Autism Spectrum,2023-01-07,"2 years, 0 months"
