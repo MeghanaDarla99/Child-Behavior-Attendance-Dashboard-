@@ -1,0 +1,22 @@
+﻿SessionID,ChildID,SessionDate,SessionType,SupportStaff,DurationMinutes
+1,101,2023-01-18,Speech Therapy,Ms. Linda,30
+2,101,2023-02-01,Occupational Therapy,Mr. James,45
+3,102,2023-01-20,Behavioral Support,Ms. Kate,60
+4,102,2023-02-03,Speech Therapy,Mr. Paul,30
+5,103,2023-01-22,Behavioral Support,Mr. Ron,45
+6,103,2023-02-12,Occupational Therapy,Ms. Linda,30
+7,104,2023-01-30,Speech Therapy,Mr. Paul,30
+8,104,2023-02-13,Behavioral Support,Ms. Kate,60
+9,105,2023-01-19,Sensory Integration,Ms. Priya,40
+10,105,2023-02-06,Occupational Therapy,Mr. James,45
+11,106,2023-11-05,Speech Therapy,Ms. Linda,30
+12,106,2023-11-20,Behavioral Support,Mr. Ron,60
+13,107,2024-07-10,Occupational Therapy,Mr. James,45
+14,108,2023-06-12,Speech Therapy,Ms. Priya,30
+15,108,2023-06-26,Behavioral Support,Ms. Kate,60
+16,109,2025-01-08,Sensory Integration,Mr. Paul,30
+17,109,2025-01-22,Behavioral Support,Mr. Ron,45
+18,110,2023-08-08,Occupational Therapy,Ms. Linda,30
+19,110,2023-08-22,Speech Therapy,Mr. James,30
+20,111,2023-02-09,Sensory Integration,Ms. Priya,40
+21,111,2023-02-23,Behavioral Support,Mr. Ron,60
