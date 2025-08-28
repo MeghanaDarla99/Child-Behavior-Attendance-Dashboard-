@@ -1,63 +1,89 @@
 # 📊 Child Behavior & Attendance Dashboard  
 
-An **interactive Power BI dashboard** analyzing **child attendance, behavioral outcomes, session types, and staff workload**.  
-This dashboard was developed using **mock/simulated data** and is **for demonstration purposes only**.
+An **interactive Power BI dashboard** for analyzing **child attendance**, **session types**, **behavioral outcomes**, and **staff workload**.  
+This dashboard was built using **mock/simulated data** for demonstration purposes and **does not represent real individuals**.
 
 ---
 
 ## 🖼️ Dashboard Preview  
 
-![Dashboard Screenshot](<img width="1421" height="786" alt="image" src="https://github.com/user-attachments/assets/cbc4b097-172a-4497-a30a-69e2ab1d2d25" />
+![Dashboard Screenshot](<img width="1417" height="794" alt="image" src="https://github.com/user-attachments/assets/50e6b130-ce62-4cf6-a324-ce875db3c28c" />
 )
 
-> *Built using Power BI, MySQL, and Excel. Interactive filters allow you to drill down by session type, staff, and child demographics.*
+> *Built using Power BI, MySQL, and Excel — includes interactive filters for analyzing session types, staff workload, and child demographics.*
 
 ---
 
 ## 🔗 Live Interactive Dashboard  
 
-Click below to **explore the interactive dashboard**:  
-
+Explore the interactive dashboard here:  
 [🌐 **View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMmMwNzIwM2ItOTNmZS00YmVkLThlZTUtMjYyMDY5YmM4N2Y5IiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9)  
 
 > ⚠️ **Disclaimer:**  
-> This dashboard uses **mock/simulated data** only. No real client or patient data has been used.
+> This dashboard uses **mock/simulated data** for learning and demonstration purposes only.
 
 ---
 
 ## 🚀 Key Features  
 
-- **Dynamic Filters** → Filter by **child’s age**, **session type**, and **support staff**.  
-- **KPI Tracking** → Monitor **attendance rates**, **session volumes**, and **behavioral progress**.  
-- **Behavioral Outcomes** → Visual tracking of improvements like communication and task engagement.  
-- **Staff Workload Analysis** → Compare **average session times** and **session distribution** per staff.  
-- **Data Segmentation** → Understand demographic trends across **age groups** and **support types**.
+- 📌 **Interactive Filters** — Drill down by **age**, **session type**, and **staff member**  
+- 📌 **KPI Cards** — Attendance rates, session volumes, and behavioral improvements  
+- 📌 **Behavioral Outcomes Tracking** — Visualize individual child progress  
+- 📌 **Staff Workload Insights** — Compare session duration and distribution per staff  
+- 📌 **Demographic Analysis** — Explore attendance patterns by age groups
 
 ---
 
 ## 📊 KPIs & Insights  
 
-| **KPI**                    | **Description**                         | **Example Insight**         |
-|---------------------------|---------------------------------------|------------------------------|
-| **Attendance Rate**       | % of attended sessions per child     | 80% overall attendance      |
-| **Session Volume**        | Annual session counts               | Drop in 2024, recovery 2025 |
-| **Session Type Split**    | Behavioral, speech, occupational, sensory | 33% behavioral, 29% speech  |
-| **Avg Session Duration**  | Avg. minutes per staff session       | Ms. Kate manages longest sessions |
-| **Behavior Notes**        | Tracks child-specific improvements   | “Used verbal communication” |
+| **KPI**                 | **Description**                       | **Example Insight**         |
+|------------------------|----------------------------------|-----------------------------|
+| **Attendance Rate**    | % of attended sessions per child | 80% overall attendance     |
+| **Session Volume**     | Total sessions per year         | Drop in 2024, recovery 2025|
+| **Session Types**      | Behavior, speech, occupational, sensory | 33% behavioral, 29% speech |
+| **Avg Session Time**   | Duration per session per staff   | Ms. Kate manages longest sessions |
+| **Behavior Notes**     | Tracks child-specific improvements | “Used verbal communication” |
+
+---
+
+## 📂 Sample Data  
+
+All datasets used in this dashboard are **mock/simulated** and are available here:  
+[📁 **View SampleData Folder**](./SampleData/)
+
+Files included:
+- `SampleData.xlsx` — Combined dataset
+- `Attendance.csv` — Session attendance records
+- `SupportSessions.csv` — Session-level tracking
+- `BehaviorOutcomes.csv` — Behavioral observations
+- `Clients.csv` — Client demographic data
 
 ---
 
 ## 🛠️ Tech Stack  
 
-| **Component**     | **Tools & Technologies** |
+| **Component**     | **Tools / Technologies** |
 |--------------------|---------------------------|
-| **Data Source**   | Mock client data (Excel) |
-| **Backend**       | MySQL (data storage & querying) |
+| **Data Source**   | Mock datasets (Excel & CSV) |
+| **Backend**       | MySQL, Excel |
 | **Visualization** | Power BI |
-| **Data Modeling** | DAX, calculated KPIs, data relationships |
+| **Modeling**      | DAX, calculated KPIs, relationships |
 | **Deployment**    | Power BI Service (interactive publishing) |
 
 ---
 
-## 📂 Repository Structure  
+## 👩‍💻 Author  
 
+**Meghana Darla**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dr-meghana-darla)  
+- 🖥️ [GitHub](https://github.com/MeghanaDarla99)  
+- 📧 Email: darlameghana1999@gmail.com  
+
+---
+
+## ⚠️ Disclaimer  
+
+> This dashboard uses **mock/simulated data** generated solely for **educational and demonstration purposes**.  
+> No real client, patient, or personal information is used.
+
+---
